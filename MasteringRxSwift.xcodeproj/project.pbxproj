@@ -36,6 +36,7 @@
 		228F352C2282802200123C47 /* MasteringRxSwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MasteringRxSwiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		228F35302282802200123C47 /* MasteringRxSwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasteringRxSwiftTests.swift; sourceTree = "<group>"; };
 		228F35322282802200123C47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		228F353B228281CB00123C47 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 				228F35222282802200123C47 /* Assets.xcassets */,
 				228F35242282802200123C47 /* LaunchScreen.storyboard */,
 				228F35272282802200123C47 /* Info.plist */,
+				228F353B228281CB00123C47 /* MyPlayground.playground */,
 			);
 			path = MasteringRxSwift;
 			sourceTree = "<group>";
